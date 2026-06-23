@@ -30,6 +30,10 @@ Understanding a system requires understanding:
 - The Feedback Loops
 
 ---
+## Framework Intersections and Dynamic Navigation
+
+The frameworks themselves operate according to the principles of Layered Intersections. Understanding emerges not only at the intersections between systems, but also at the intersections between frameworks.
+As new information becomes available, understanding may move between frameworks, perspectives, and levels of analysis. The objective is not to remain within a single framework, but to continue moving until sufficient understanding is achieved.
 
 # Pattern Recognition Gateway
 
