@@ -1,4 +1,4 @@
-# Dynamic-Zero-Trust-Framework
+# Dynamic Systems Framework
 A living methodology for Zero Trust engineering, architecture, implementation, and operations.
 
 This framework organizes lessons learned from enterprise networking, security, identity, secure access, and cloud technologies into reusable models that support system design, troubleshooting, migration planning, governance, and operational decision-making.
